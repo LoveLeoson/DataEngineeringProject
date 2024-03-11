@@ -1,0 +1,26 @@
+all data 14 cores :  222.86
+
+
+10\% of data 2 cores (1 workers): 24,4 24.88 25.34
+10\% of data 4 cores (2 workers): 16.12 16.11 16.53
+10\% of data 6 cores (3 workers): 13.50 14.32 14.32
+10\% of data 8 cores (4 workers): 15.3 
+
+
+strong ! 
+30\% of data 2 cores (1 workers): 130.37 121.55 94.5
+30\% of data 4 cores (2 workers): 51.29 52.82 52.59
+30\% of data 6 cores (3 workers): 40.61 44.73 52.60
+30\% of data 8 cores (4 workers): 39.74 44.18 35.22
+30\% of data 10 cores (5 workers): 29.69 37.48 30.6 
+30\% of data 12 cores (6 workers): 30.45 35.0 31.11
+30\% of data 14 cores (7 workers): 31.9 32.8 32.0
+
+weak !
+5\% of data 2 cores : 18.43 26.39 20.26
+10\% of data 4 cores : 17.41 20.13 20.04
+15\% of data 6 cores : 19.6 34.35 23.35
+20\% of data 8 cores : 33.8 25.14 22.94
+25\% of data 10 cores : 37.6 27.4 22.9 
+30\% of data 12 cores : 38.17 36.13 40.03
+35\% of data 14 cores : 56.86 50.14 44.4
