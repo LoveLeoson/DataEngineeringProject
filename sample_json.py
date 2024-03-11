@@ -1,6 +1,6 @@
 import json
 import random
-with open('data.json', 'r') as file:
+with open('/home/hadoop/input/corpus-webis-tldr-17.json', 'r') as file:
     data = json.load(file)
 
 if isinstance(data, list):
